@@ -12,7 +12,7 @@
 
 scoreboard 截图：
 
-![](img\scoreboard.png)
+![scoreboard.png](./img/scoreboard.png)
 
 ## 解题报告
 
@@ -26,7 +26,7 @@ scoreboard 截图：
 
 第一题是字符串匹配，直接在3180查看对应的字符串即可。
 
-![](img\1.png)
+![1.png](./img/1.png)
 
 
 
@@ -84,7 +84,7 @@ int phase_2()
 
 本题是一个矩阵乘法。两个矩阵分别是2×3和3×2的，输入的四个数为两个矩阵相乘后的结果。我们在6120和6140分别查看两个矩阵的值，然后手动计算后输入即可。矩阵内容如下：
 
-![](img\2.png)
+![2.png](./img/2.png)
 
 ### phase_3
 
